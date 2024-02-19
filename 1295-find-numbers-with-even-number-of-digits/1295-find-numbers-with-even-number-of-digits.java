@@ -17,15 +17,10 @@ class Solution {
         return false;
     }
 
-
-    //count digits in a number
     static int digits(int num){
-        int count=0;
-        while (num>0) {
-            count++;
-            num=num/10;
+        if(num<0){
+            num=num*-1;
         }
-
-        return count;
+        return (int)(Math.log10(num)+1);
     }
 }
