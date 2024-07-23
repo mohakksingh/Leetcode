@@ -17,10 +17,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/mohakksingh/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/mohakksingh/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mohakksingh/Leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,4 +39,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
