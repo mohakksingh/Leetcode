@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohakksingh/Leetcode/tree/master/0002-add-two-numbers) |
 | [2645-pass-the-pillow](https://github.com/quanta2k/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohakksingh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohakksingh/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/mohakksingh/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mohakksingh/Leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohakksingh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohakksingh/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/mohakksingh/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0206-reverse-linked-list) |
