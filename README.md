@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mohakksingh/Leetcode/tree/master/0148-sort-list) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohakksingh/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -64,11 +65,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohakksingh/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohakksingh/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohakksingh/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/mohakksingh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohakksingh/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Tree
 |  |
 | ------- |
