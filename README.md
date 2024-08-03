@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/mohakksingh/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/mohakksingh/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
