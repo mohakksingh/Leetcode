@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/mohakksingh/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2645-pass-the-pillow](https://github.com/quanta2k/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohakksingh/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohakksingh/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2058-concatenation-of-array](https://github.com/mohakksingh/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
