@@ -1,20 +1,14 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        int distinctCount=0;
-
-        for(int i=0;i<arr.length;i++){
-            boolean isDistinct=true;
-
-            for(int j=0;j<arr.length;j++){
-                if(i != j && arr[i].equals(arr[j])){
-                    isDistinct=false;
-                    break;
-                }
-            }
-            if(isDistinct){
-                distinctCount++;
-                if(distinctCount == k){
-                    return arr[i];
+        Map<String,Integer> counter=new HashMap<>();
+        for(String v:arr){
+            counter.put(v,counter.getOrDefault(v,0)+1);
+        }
+        for(String v:arr){
+            if(counter.get(v)==1){
+                --k;
+                if(k==0){
+                    return v;
                 }
             }
         }
