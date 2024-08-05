@@ -1,14 +1,21 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        Map<String,Integer> counter=new HashMap<>();
-        for(String v:arr){
-            counter.put(v,counter.getOrDefault(v,0)+1);
+        HashMap<String,Boolean> map=new HashMap<>();
+
+        int count=0;
+        for(int i=0;i<arr.length;i++){
+            if(map.containsKey(arr[i])){
+                map.put(arr[i],false);
+            }else{
+                map.put(arr[i],true);
+            }
         }
-        for(String v:arr){
-            if(counter.get(v)==1){
-                --k;
-                if(k==0){
-                    return v;
+
+        for(String item:arr){
+            if(map.get(item)==true){
+                count++;
+                if(count==k){
+                    return item;
                 }
             }
         }
