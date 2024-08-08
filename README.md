@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohakksingh/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mohakksingh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohakksingh/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2058-concatenation-of-array](https://github.com/mohakksingh/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohakksingh/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -97,4 +98,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohakksingh/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/mohakksingh/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mohakksingh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/mohakksingh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
